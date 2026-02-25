@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Hotel Moonside",
+  "base_artist": "速水奏 (CV: 飯田友子)",
+  "createdAt": "2026-02-25T13:56:48.847650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hotel Moonside (Extended Live Version)",
+      "artist": "速水奏 (CV:飯田友子)",
+      "has_synced": true,
+      "path": "select/01_Hotel_Moonside_(Extended_Live_Version)_速水奏_(CV_飯田友子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hotel Moonside",
+      "artist": "速水奏(CV:飯田友子)",
+      "has_synced": true,
+      "path": "select/02_Hotel_Moonside_速水奏(CV_飯田友子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hotel Moonside",
+      "artist": "速水奏; 飯田友子",
+      "has_synced": true,
+      "path": "select/03_Hotel_Moonside_速水奏;_飯田友子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hotel Moonside (Extended Live Version)",
+      "artist": "速水奏 (CV:飯田友子)",
+      "has_synced": true,
+      "path": "select/04_Hotel_Moonside_(Extended_Live_Version)_速水奏_(CV_飯田友子).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hotel Moonside",
+      "artist": "飯田友子",
+      "has_synced": true,
+      "path": "select/05_Hotel_Moonside_飯田友子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hotel Moonside (オリジナル・カラオケ)",
+      "artist": "速水奏",
+      "has_synced": false,
+      "path": "select/06_Hotel_Moonside_(オリジナル・カラオケ)_速水奏.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hotel Moonside",
+      "artist": "速水奏",
+      "has_synced": true,
+      "path": "select/07_Hotel_Moonside_速水奏.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hotel Moonside",
+      "artist": "速水奏 (CV:飯田友子)",
+      "has_synced": false,
+      "path": "select/pl_01_Hotel_Moonside_速水奏_(CV_飯田友子).txt"
+    }
+  ]
+}
